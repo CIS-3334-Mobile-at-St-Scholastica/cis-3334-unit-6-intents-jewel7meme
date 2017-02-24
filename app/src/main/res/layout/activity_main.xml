@@ -25,11 +25,11 @@
         android:layout_height="wrap_content">
 
         <ImageButton
-            android:layout_width="wrap_content"
+            android:layout_width="45dp"
             android:layout_height="wrap_content"
             app:srcCompat="@mipmap/spotlight1"
             android:id="@+id/imageButton"
-            android:layout_weight="1" />
+            android:layout_weight="0.23" />
 
         <TextView
             android:text="SAL Colloquium “The Robot Next Door” \nFriday, February 24, 2017, 3:40 – 4:40 p.m.\nTower Hall 4119"
@@ -73,11 +73,11 @@
         android:layout_height="wrap_content">
 
         <ImageButton
-            android:layout_width="wrap_content"
+            android:layout_width="44dp"
             android:layout_height="wrap_content"
             app:srcCompat="@mipmap/choirs"
             android:id="@+id/imageButton2"
-            android:layout_weight="1" />
+            android:layout_weight="0.11" />
 
         <TextView
             android:text="CSS Choirs at Home \nThursday, March 2, 2017, 7:30 – 9:30 p.m.\nMitchell Auditorium"
@@ -120,7 +120,7 @@
         android:layout_height="wrap_content">
 
         <ImageButton
-            android:layout_width="wrap_content"
+            android:layout_width="50dp"
             android:layout_height="wrap_content"
             app:srcCompat="@mipmap/secret"
             android:id="@+id/imageButton3" />
